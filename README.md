@@ -9,5 +9,5 @@ Con el presente scrapeo analizaremos la valoración de los clientes, las estrell
 
 ## DATOS PARA EL WEB SCRAPING 
 
-- pÁgina de venta Amazon https://www.amazon.com/-/es/
+- página de venta Amazon https://www.amazon.com/-/es/
 - camiseta 'Funny Got Data MIS Data Systems Business Analyst' https://www.amazon.com/dp/B07FNW9FGJ?customId=B0752XJYNL&th=1.
