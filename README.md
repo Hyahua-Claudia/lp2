@@ -9,5 +9,14 @@ Con el presente scrapeo analizaremos la valoración de los clientes, las estrell
 
 ## DATOS PARA EL WEB SCRAPING 
 
-- página de venta Amazon https://www.amazon.com/-/es/
-- camiseta 'Funny Got Data MIS Data Systems Business Analyst' https://www.amazon.com/dp/B07FNW9FGJ?customId=B0752XJYNL&th=1.
+- Página de venta Amazon https://www.amazon.com/-/es/
+- Camiseta 'Funny Got Data MIS Data Systems Business Analyst' https://www.amazon.com/dp/B07FNW9FGJ?customId=B0752XJYNL&th=1.
+
+## ALCANCES
+Presentamos 2 archivos.ipynb con los códigos que nos permitan llegar al bojetivo de este trabajo.
+1. TRABAJO FINAL.ipynb
+2. ANALISIS ESTADÍSTICO.ipynb
+
+Además un archivo.csv con los resultados obtenidos por el web scraping.
+1. RESULTADOS.csv
+
